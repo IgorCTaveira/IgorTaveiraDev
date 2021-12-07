@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IgorTaveiraDev
+- 👀 I’m interested in ... new contacts and learning
+- 🌱 I’m currently learning ... Java for Android
+- 💞️ I’m looking to collaborate on ... Android app dev
+- 📫 How to reach me ... contact@igortaveira.com.br
